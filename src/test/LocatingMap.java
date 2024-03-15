@@ -5,6 +5,7 @@ public class LocatingMap {
 
 
         System.out.println("This is from GitHub");
+        //say some thing
 
     }
 }
