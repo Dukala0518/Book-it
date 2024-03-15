@@ -5,6 +5,7 @@ public class LocatingMap {
 
 
         System.out.println("It is from IntelliJ");
+        System.out.println("ohhh");
 
     }
 }
